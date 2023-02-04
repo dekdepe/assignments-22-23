@@ -1,0 +1,7 @@
+application {
+    mainClass.set('assignments.assignment1.MainClass')
+}
+
+run {
+    standardInput = System.in
+}
