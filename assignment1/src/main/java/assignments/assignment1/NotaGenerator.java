@@ -13,7 +13,7 @@ public class NotaGenerator {
         return null;
     }
 
-    public static String generateNota(String id, String paket, String nama, String tanggal){
+    public static String generateNota(String id, String paket, String nama, String tanggal, int berat){
         return null;
     }
 }
