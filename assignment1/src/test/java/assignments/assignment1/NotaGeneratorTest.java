@@ -11,7 +11,7 @@ public class NotaGeneratorTest {
         DateTimeFormatter dtf = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         LocalDateTime now = LocalDateTime.now();
         String dateNow = dtf.format(now);
-        assertEquals("", NotaGenerator.generateNota("", "", "", dateNow, 0));
+        assertEquals("", NotaGenerator.generateNota("", "", 0));
     }
 
     @Test
