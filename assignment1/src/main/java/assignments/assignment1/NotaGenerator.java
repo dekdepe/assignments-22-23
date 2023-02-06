@@ -11,25 +11,7 @@ public class NotaGenerator {
      * method main, program utama kalian berjalan disini.
      */
     public static void main(String[] args) {
-        while (true){
-            printMenu();
-            System.out.print("Pilihan : ");
-            var command = input.next();
-            System.out.println("================================");
-            if(command.equals("1")){
-                // TODO: Implment I/O untuk generate ID
-                continue;
-            }
-            if(command.equals("2")){
-                // TODO: Implment I/O untuk generate Nota
-                continue;
-            }
-            if (command.equals("0")){
-                break;
-            }
-            System.out.println("Perintah tidak dikenali.");
-        }
-        System.out.println("Terima kasih telah menggunakan NotaGenerator!");
+        // TODO: Implement interface menu utama
     }
 
     /**
@@ -79,7 +61,7 @@ public class NotaGenerator {
      *         <p>Tanggal Selesai : [tanggalSekarang+LamaHariPaket]
      */
 
-    public static String generateNota(String id, String paket, int berat){
+    public static String generateNota(String id, String paket, int berat, String tanggalMasuk){
         // TODO: Implement generate nota sesuai soal.
         return null;
     }
