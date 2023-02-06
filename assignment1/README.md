@@ -78,11 +78,11 @@ berkas `src\test\java\assignments\assignment1\NotaGeneratorTest.java`.
 Kode seperti berikut:
 
 ```java
-TBD
+assertEquals("DEK-082212345678-75", NotaGenerator.generateId("Dek Depe", "082212345678"));
 ```
 
-artinya jika *method* `generateId` dipanggil dengan argumen `"SSI", "2021", "17/08/2003"`,
-maka ia harus mengembalikan nilai yang setara dengan `ID Anggota: SSI21170803DE`.
+artinya jika *method* `generateId` dipanggil dengan argumen `"Dek Depe", "082212345678"`,
+maka ia harus mengembalikan nilai yang setara dengan `DEK-082212345678-75`.
 
 ## Pengumpulan
 
@@ -105,8 +105,19 @@ tersebut diidentifikasi dengan memeriksa GitLab Pipelines.
 
 ### Daftar pekerjaan wajib
 
-TBA
+- [ ] Buat sekurang-kurangnya 1 *commit* yang mengandung progres kamu dalam
+  mengerjakan Tugas Pemrograman 1.
+- [ ] *Push* *commit* kamu ke repositori Git *online* yang ada pada proyek
+  GitHub kamu.
+- [ ] Implementasikan method `generateId` dengan benar.
+- [ ] Implementasikan method `generateNota` dengan benar.
+- [ ] Demonstrasikan program kamu ke asdos kamu.
 
 ## Penilaian
 
-TBA
+- 25% Fungsionalitas method generateId (Generate ID Nota Laundry)
+- 25% Fungsionalitas method generateNota (Generate Nota Laundry)
+- 10% Implementasi Menu Utama (Menu Utama)
+- 5% Dokumentasi (kejelasan kode)
+- 5% Standar penulisan kode* (kerapian kode)
+- 30% Demo program dengan asisten dosen
