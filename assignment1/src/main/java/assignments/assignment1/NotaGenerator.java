@@ -1,7 +1,5 @@
 package assignments.assignment1;
 
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
 import java.util.Scanner;
 
 public class NotaGenerator {
