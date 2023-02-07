@@ -97,7 +97,7 @@ yang telah dijelaskan dalam perkuliahan.
 
 <!-- Kumpulan Link -->
 [latihan-tp]: https://github.com/dekdepe/exercise-assignments
-[tp1]: assignment1/src/README.md
+[tp1]: assignment1/README.md
 [repositori-pusat]: https://github.com/dekdepe/assignments-22-23
 
 [repositori-2018]: https://gitlab.com/DDP2-CSUI/assignment

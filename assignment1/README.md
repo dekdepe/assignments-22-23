@@ -88,15 +88,15 @@ maka ia harus mengembalikan nilai yang setara dengan `DEK-082212345678-75`.
 
 Simpan pekerjaan kamu, lalu lakukan `git add`, `git commit`, dan `git push`
 sebagaimana dijelaskan pada dokumen
-Getting Started with a Java Project.
-*Push* solusi kamu **sebelum 2 Mar 2023 pukul 23.55**. Disarankan untuk
+Getting Started with a Java Project (Latihan Tugas Pemrograman).
+*Push* solusi kamu **sebelum 2 Maret 2023 pukul 23.55**. Disarankan untuk
 *push* **sebelum pukul 22.00** untuk mengantisipasi antrean pada GitHub
 Pipelines.
 
-Jangan lupa untuk menambahkan asdos kamu sebagai *member* di repositori kamu.
+Jangan lupa untuk menambahkan asdos kamu dan dekdepe sebagai *member* di repositori kamu.
 Tim pengajar hanya akan menilai pekerjaan kamu berdasarkan ***commit* terbaru**
 yang **sudah di-*push* sebelum waktu dan tanggal yang ditentukan**. *Commit*
-tersebut diidentifikasi dengan memeriksa GitLab Pipelines.
+tersebut diidentifikasi dengan memeriksa GitHub Pipelines.
 
 > Catatan: *timestamp* pada GitHub Pipelines tidak pernah bohong.
 > *So, no funny business, please :)*
