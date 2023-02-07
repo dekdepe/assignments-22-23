@@ -28,7 +28,7 @@ Sebelum memulai mengerjakan tugas pemrograman, harap mengerjakan [Latihan Tugas 
 
 1. **Duplikat** repositori ini ke akun GitHub kamu. Cara untuk menduplikat repositori Tugas Pemrograman, hampir sama dengan cara menduplikat repositori Latihan Tugas Pemrograman yang dapat dilihat [disini](https://docs.google.com/document/d/1LFRe4iRxjLmcOZrZ4q1qQPt6m-C7PIVTgpRYrKxDJkM/edit#heading=h.fy60kcxym2pi)
 
-2. Jika visibilitas repositori masih belum private, ubah visibilitas repositori hasil duplikat tersebut menjadi ***private*** melalui halaman *Settings* > *General* > *Danger Zone* > *Change repository visibility* > *Change Visibility* > *Change to public*.
+2. Jika visibilitas repositori masih belum private, ubah visibilitas repositori hasil duplikat tersebut menjadi ***private*** melalui halaman *Settings* > *General* > *Danger Zone* > *Change repository visibility* > *Change Visibility* > *Change to private*.
 
 3. Tambahkan akun GitHub `asdos kamu` dan `@dekdepe` sebagai *collaborator* di repositori kamu melalui *Settings* > *Collaborators* > *Add People*.
 
