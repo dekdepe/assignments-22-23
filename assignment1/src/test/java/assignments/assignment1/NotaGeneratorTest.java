@@ -9,7 +9,7 @@ public class NotaGeneratorTest {
         String solution = "ID    : BOCI-08203712389-79\n" +
                 "Paket : reguler\n" +
                 "Harga :\n" +
-                "20 kg x 10000 = 200000\n" +
+                "20 kg x 7000 = 140000\n" +
                 "Tanggal Terima  : 01/02/2023\n" +
                 "Tanggal Selesai : 04/02/2023";
         assertEquals(
