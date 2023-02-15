@@ -6,7 +6,7 @@ public class NotaGenerator {
     private static final Scanner input = new Scanner(System.in);
 
     /**
-     * method main, program utama kalian berjalan disini.
+     * Method main, program utama kalian berjalan disini.
      */
     public static void main(String[] args) {
         // TODO: Implement interface menu utama
