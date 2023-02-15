@@ -54,12 +54,12 @@ public class NotaGenerator {
      *         <p>ID    : [id]
      *         <p>Paket : [paket]
      *         <p>Harga :
-     *         <p>[berat] Kg x [hargaPaketPerKg] = [totalHarga]
-     *         <p>Tanggal Terima  : [tanggalSekarang]
-     *         <p>Tanggal Selesai : [tanggalSekarang+LamaHariPaket]
+     *         <p>[berat] kg x [hargaPaketPerKg] = [totalHarga]
+     *         <p>Tanggal Terima  : [tanggalTerima]
+     *         <p>Tanggal Selesai : [tanggalTerima + LamaHariPaket]
      */
 
-    public static String generateNota(String id, String paket, int berat, String tanggalMasuk){
+    public static String generateNota(String id, String paket, int berat, String tanggalTerima){
         // TODO: Implement generate nota sesuai soal.
         return null;
     }
