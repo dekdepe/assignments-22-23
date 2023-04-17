@@ -97,7 +97,10 @@ tersebut diidentifikasi dengan memeriksa GitHub Pipelines.
 - [ ] Silakan menambah class atau method yang diperlukan.
 - [ ] Demonstrasikan program kamu ke asdos kamu.
 ## Penilaian
-- TBA
+- 30% Fungsionalitas Program 
+- 10% Implementasi Package Service
+- 10% Implementasi Package User
+- 10% Implementasi Package Menu
 - 5% Dokumentasi (kejelasan kode)
 - 5% Standar penulisan kode* (kerapian kode)
 - 30% Demo program dengan asisten dosen
