@@ -2,4 +2,5 @@ rootProject.name = 'assignments'
 include 'assignment1'
 include 'assignment2'
 include 'assignment3'
+include 'assignment4'
 
