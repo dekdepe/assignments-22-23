@@ -90,7 +90,10 @@ tersebut diidentifikasi dengan memeriksa GitHub Pipelines.
 - [ ] Demonstrasikan program kamu ke asdos kamu.
 - [ ] Be creative! ini adalah Tugas Pemrogram (semoga) terakhir kalian di DDP2.
 ## Penilaian
-- TBA
+- 40% Fungsionalitas program
+- 10% Validasi input & tampilan error message
+- 5% Informasi prompt program
+- 5% Kerapian GUI dan output program
 - 5% Dokumentasi (kejelasan kode)
 - 5% Standar penulisan kode* (kerapian kode)
 - 30% Demo program dengan asisten dosen
